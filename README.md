@@ -2,7 +2,7 @@
 
 <h3 style="text-align:center">A passionate IT/Sysadmin/coder/developer from Morocco</h3>
 <h5 style="text-align:center">- Contact by Email : **samir.elaissaoui{AT}gmail.com**</h5>
-
+<h5 style="text-align:center">Or on Telegram : https://t.me/ANTI_0_DOTE</h5>
 <p style="text-align:center"><img alt="antidotema" src="https://komarev.com/ghpvc/?username=antidotema&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" /></p>
 
 <p style="text-align:center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="antidotema" src="https://github-profile-trophy.vercel.app/?username=antidotema" /></a></p>
