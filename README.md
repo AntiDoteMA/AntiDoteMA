@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samir AKA Anti-Dote</h1>
 <h3 align="center">A passionate IT/Sysadmin/coder/developer from Morocco</h3>
-<Center>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=antidotema&label=Profile%20views&color=0e75b6&style=flat" alt="antidotema" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antidotema" alt="antidotema" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/elaissaouisamir" target="blank"><img src="https://img.shields.io/twitter/follow/elaissaouisamir?logo=twitter&style=for-the-badge" alt="elaissaouisamir" /></a> </p>
-
+<center>
 - 🌱 I’m currently learning **SE at ALX Software Engineering Program**
-
+</center>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/elaissaouisamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elaissaouisamir" height="30" width="40" /></a>
