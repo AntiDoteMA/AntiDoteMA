@@ -8,8 +8,6 @@
 
 <p style="text-align:center"><a href="https://twitter.com/elaissaouisamir" target="blank"><img alt="elaissaouisamir" src="https://img.shields.io/twitter/follow/elaissaouisamir?logo=twitter&amp;style=for-the-badge" /></a></p>
 
-<p style="text-align:center">- 🌱 I&rsquo;m currently learning **SE at ALX Software Engineering Program**</p>
-
 <h3 style="text-align:center">Connect with me:</h3>
 
 <p style="text-align:center"><a href="https://twitter.com/elaissaouisamir" target="blank"><img alt="elaissaouisamir" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="height:30px; width:40px" /></a> <a href="https://stackoverflow.com/users/samir-elaissaoui" target="blank"><img alt="samir-elaissaoui" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" style="height:30px; width:40px" /></a></p>
